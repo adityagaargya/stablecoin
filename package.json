@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@anvilco/anvil": "^2.14.1",
     "@chainlink/contracts": "^0.6.1",
     "@openzeppelin/contracts": "^4.9.2",
     "forge-std": "^1.1.2"
